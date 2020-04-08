@@ -1,2 +1,0 @@
-# landingpage
-Example Landing page
