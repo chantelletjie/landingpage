@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6e12a623d038e5aa3d4a9fae7c6a7ea",
+    "revision": "c4ea901751a7261605f077e643fad9be",
     "url": "/landingpage/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landingpage/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "d38d73df02ece794e406",
-    "url": "/landingpage/static/css/main.11a6ac31.chunk.css"
+    "revision": "7f6be356883f0e151c80",
+    "url": "/landingpage/static/css/main.6fd0a8a4.chunk.css"
   },
   {
     "revision": "29c371fcab48f4f3fe08",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landingpage/static/js/2.c63249af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d38d73df02ece794e406",
-    "url": "/landingpage/static/js/main.76a79bc9.chunk.js"
+    "revision": "7f6be356883f0e151c80",
+    "url": "/landingpage/static/js/main.2c15b660.chunk.js"
   },
   {
     "revision": "e488e9b1caa27e5a2675",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landingpage/static/media/collision-cover.8a1bd082.jpg"
   },
   {
-    "revision": "53dcd0a3950db4eb1edbde24fe23e1da",
-    "url": "/landingpage/static/media/decorative-border.53dcd0a3.png"
+    "revision": "32418707034234a3987570a5ee89117a",
+    "url": "/landingpage/static/media/decorative-border-top.32418707.png"
   },
   {
     "revision": "a26ab882081e0b5082d2efd877064cf1",
